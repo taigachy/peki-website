@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peki&#39;s website </title>
+    <link>https://pekiblog.site/post/</link>
+    <description>Recent content from peki&#39;s website </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    <managingEditor>donthave (Peki)</managingEditor>
+    <webMaster>donthave (Peki)</webMaster>
+    
+    <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
+    
+    <lastBuildDate>Tue, 12 Aug 2025 09:00:00 +0300</lastBuildDate>
+    
+    
+    <atom:link href="https://pekiblog.site/post/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+      
+    
+
+    <item>
+      <title>Hello !</title>
+      <link>https://pekiblog.site/post/new-lesson/</link>
+      <pubDate>Tue, 12 Aug 2025 09:00:00 &#43;0300</pubDate>
+      <author>donthave (Peki)</author>
+      <guid>https://pekiblog.site/post/new-lesson/</guid>
+      <description>
+        <![CDATA[<h1>Hello !</h1><p>Author: Peki(donthave)</p>
+        
+          <p>I hope you’re doing just fine.</p>
+<p>We’re just started at this.</p>
+<p>Let’s make it worthwhile.</p>
+        
+        <hr><p>Published on 2025-08-12 at <a href='https://pekiblog.site/'>peki's website </a>, last modified on 2025-08-12</p><p>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</p>]]>
+      </description>
+      
+    </item>
+    
+      
+    
+
+    <item>
+      <title>yoo?</title>
+      <link>https://pekiblog.site/post/hello/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <author>donthave (Peki)</author>
+      <guid>https://pekiblog.site/post/hello/</guid>
+      <description>
+        <![CDATA[<h1>yoo?</h1><p>Author: Peki(donthave)</p>
+        
+          
+        
+        <hr><p>Published on 2023-03-15 at <a href='https://pekiblog.site/'>peki's website </a>, last modified on 2023-03-15</p><p>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>
